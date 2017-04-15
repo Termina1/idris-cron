@@ -1,0 +1,4 @@
+package Cron
+
+opts = "-p lightyear"
+modules = Cron
